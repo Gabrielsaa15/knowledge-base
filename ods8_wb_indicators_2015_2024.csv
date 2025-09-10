@@ -1,0 +1,841 @@
+country,iso3,year,indicator,indicator_name,value,label
+Argentina,ARG,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.66091253843923,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-3.02450095578762,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.91639608148853,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-3.41553683867816,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-2.69506723533574,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-10.3361096878518,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),10.1485599877349,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),5.04819532337936,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-1.89294979737558,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-2.05840275449496,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),5.60449539732434,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),6.16181560014782,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),5.68710307010265,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),6.44197494702485,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),6.97264399779152,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.58647816564581,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),6.07069417020969,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),6.00847462887278,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),4.4907040939439,"PIB pc (crec. %, real) [8.1]"
+Bangladesh,BGD,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.96499837954917,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-4.30639755912077,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-4.01012719354725,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.587668928736335,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.09040860447158,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.562970837578547,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-3.83550546659214,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),4.3179316171849,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.64631532411505,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.83370012861097,"PIB pc (crec. %, real) [8.1]"
+Brazil,BRA,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.97747909274841,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.11370445947465,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.52983351729867,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-0.235110167425177,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.14988195463914,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-0.962096016030856,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-6.98113061984451,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),10.824550522267,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.64877813218645,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-0.0196132258928543,"PIB pc (crec. %, real) [8.1]"
+Chile,CHL,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.09415451485827,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.06923227113727,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.08114925712198,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-0.101221554133033,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.695264947238812,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.36014067984289,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-8.50949477621059,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),9.5929782838861,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),6.18779953705864,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-0.410230298426796,"PIB pc (crec. %, real) [8.1]"
+Colombia,COL,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.656437667018352,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),7.46807676647016,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),6.50991456114522,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),6.61862070026751,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),3.97407545942133,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),5.48664148021712,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),3.22311599492807,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.85565763078523,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.59539967644373,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),3.85475025230436,"PIB pc (crec. %, real) [8.1]"
+Ethiopia,ETH,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),4.57966778910016,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.776507671684243,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.47229261688244,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.33286596055396,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.813017363439201,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.76040219541116,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-4.17345323463887,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),3.62612870918142,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.641609114499019,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-0.38998869126668,"PIB pc (crec. %, real) [8.1]"
+Germany,DEU,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.228526174174277,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-0.0454395053176881,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.398402974127237,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.12394427912376,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.326678559605597,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-2.98683711868885,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-4.49816442182016,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-2.92695804339543,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-2.7846808475344,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-2.99212843762332,"PIB pc (crec. %, real) [8.1]"
+Haiti,HTI,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-5.26984833324718,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.66846511717627,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.805362824501671,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.75861180168305,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.771168471505248,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-0.262170828573062,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-3.88641911578898,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),3.17001738751661,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.39102754851621,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.97080161121153,"PIB pc (crec. %, real) [8.1]"
+Japan,JPN,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.520666034926037,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.60971012855097,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.790955211695035,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.923425367204686,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.01136619999065,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-1.33462176886584,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-9.10287153026798,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),5.34306679081725,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.93285765177889,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.39838816655337,"PIB pc (crec. %, real) [8.1]"
+Mexico,MEX,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.584780121162638,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.09361990664132,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.57623039728159,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.01943141648242,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.1018453903506,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),0.502286291227506,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-11.989123385761,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),12.2777396432111,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.82762015025182,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-1.49255980889144,"PIB pc (crec. %, real) [8.1]"
+Peru,PER,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.18017278753871,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2015,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.12741138238411,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2016,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.02266588951608,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2017,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.75014095244312,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2018,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.36444249959189,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2019,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.05676589936279,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2020,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),-2.56180738365786,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2021,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),5.8883410395074,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2022,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.92386172915427,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2023,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),2.03559987696194,"PIB pc (crec. %, real) [8.1]"
+United States,USA,2024,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),1.79735044324696,"PIB pc (crec. %, real) [8.1]"
+Argentina,ARG,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),69722.7053276355,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),68102.8907306326,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),69702.6851895696,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),66889.2867265136,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),64545.6690918665,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),63088.8422580423,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),62199.2099349718,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),62416.5815974919,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),59585.9258245395,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),59087.9897702683,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),14411.3748460929,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),15254.5907780982,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),15398.4454288001,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),16150.5698026795,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),17050.8453071746,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),17521.21818587,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),18112.0203623171,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),18760.0240013094,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),19505.0488984303,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Bangladesh,BGD,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),19976.5906900261,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),40241.3603240311,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),39749.3215058047,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),40207.0253818843,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),40287.8207414582,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),39945.5086419838,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),41893.3237282763,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),41904.8315182294,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),40322.9212545869,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),41147.6933819408,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Brazil,BRA,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),42228.5579790539,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),59739.3590035533,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),59993.1837305469,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),59228.2679865208,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),60250.5717770307,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),59490.6161227729,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),64093.5695077388,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),68026.3944331136,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),65161.2748054022,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),63928.4562533417,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Chile,CHL,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),65020.9966667894,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),36355.5637432912,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),36943.6403776327,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),36903.5625254914,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),37412.4444096565,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),38575.0512486464,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),38004.1223580052,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),39876.7885971864,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),41331.834908291,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),40161.956355701,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Colombia,COL,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),40362.6598416382,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),4503.64279008393,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),4857.80961626183,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),5249.09930011303,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),5539.81202719671,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),5937.3545655837,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),6346.96044004726,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),6586.6754646976,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),6699.61202903579,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),6947.4701082195,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Ethiopia,ETH,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),7238.69985388952,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),119748.70616342,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),120645.770589928,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),122727.06192775,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),122961.684269832,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),122853.413462313,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),120369.546822349,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),124673.857586199,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),123843.525940905,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),122921.349247199,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Germany,DEU,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),124097.367911067,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),9163.24681824218,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),9159.9090474138,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),9211.79051871121,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),9193.58474923548,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),8909.63687270068,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),8699.14819770781,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),8337.02973516574,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),8017.11070422785,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),7743.76542689374,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Haiti,HTI,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),7349.98763700832,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),86597.7821013644,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),86240.9099959869,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),86700.1536098057,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),85516.8962465425,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),84299.252416948,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),81349.2692847553,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),83541.4465066509,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),83816.257416506,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),84722.5218987574,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Japan,JPN,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),84535.0324929323,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),51302.9423619896,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),51285.0581958195,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),51419.0082648418,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),51377.9719490278,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),49950.118135227,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),49432.4171176253,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),48605.8099800835,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),48577.374232981,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),48596.642522115,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Mexico,MEX,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),48617.1410727246,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),27324.0204631898,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),28238.2276063213,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),27778.8029554607,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),28058.8626972207,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),27921.3330115687,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),28555.7457858585,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),29901.9512596231,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),28882.582585299,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),29314.091082651,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Peru,PER,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),29765.976466038,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2015,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),135038.955151717,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2016,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),135265.257755882,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2017,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),136420.185574135,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2018,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),138621.235994569,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2019,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),140255.892055835,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2020,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),145799.895375942,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2021,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),149654.666813837,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2022,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),148651.6235516,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2023,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),150436.445058087,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+United States,USA,2024,SL.GDP.PCAP.EM.KD,GDP per person employed (constant 2021 PPP $),153724.510471246,"Productividad laboral (PIB por ocupado, US$ const) [8.2]"
+Argentina,ARG,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7.579,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8.085,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8.347,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.22,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.843,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11.461,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8.736,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6.805,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6.139,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7.876,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.396,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.35,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.372,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.407,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.441,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5.436,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5.327,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.593,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.454,Desempleo total (% fuerza laboral) [8.5]
+Bangladesh,BGD,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.68,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8.538,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11.58,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12.792,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12.329,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11.936,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13.697,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13.158,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.231,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7.947,Desempleo total (% fuerza laboral) [8.5]
+Brazil,BRA,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7.634,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6.313,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6.673,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7.257,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7.623,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7.493,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10.934,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.281,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8.249,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.013,Desempleo total (% fuerza laboral) [8.5]
+Chile,CHL,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.056,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8.572,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8.922,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.086,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.36,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10.28,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15.983,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13.898,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10.547,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.594,Desempleo total (% fuerza laboral) [8.5]
+Colombia,COL,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9.608,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.443,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.554,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.662,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.802,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.917,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.994,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.935,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.409,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.402,Desempleo total (% fuerza laboral) [8.5]
+Ethiopia,ETH,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.398,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.612,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.104,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.781,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.384,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.163,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.881,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.594,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.12,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.068,Desempleo total (% fuerza laboral) [8.5]
+Germany,DEU,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.406,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13.724,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13.852,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13.881,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13.878,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14.057,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15.546,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15.28,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14.635,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14.556,Desempleo total (% fuerza laboral) [8.5]
+Haiti,HTI,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15.058,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.385,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.132,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.822,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.467,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.351,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.809,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.828,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.6,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.6,Desempleo total (% fuerza laboral) [8.5]
+Japan,JPN,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.563,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.311,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.853,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.419,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.275,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.477,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.44,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.019,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.256,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.765,Desempleo total (% fuerza laboral) [8.5]
+Mexico,MEX,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2.711,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.272,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.741,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.691,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.492,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.379,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7.179,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5.097,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.85,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.899,Desempleo total (% fuerza laboral) [8.5]
+Peru,PER,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.828,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5.28,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.869,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.355,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.896,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.669,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8.055,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5.349,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.65,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3.638,Desempleo total (% fuerza laboral) [8.5]
+United States,USA,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4.106,Desempleo total (% fuerza laboral) [8.5]
+Argentina,ARG,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",20.27,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",21.793,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",22.843,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",23.845,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",25.842,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",30.428,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",23.373,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",19.004,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",17.946,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",21.188,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",10.56,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",10.956,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",12.101,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",11.829,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",11.594,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",13.29,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",12.441,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",10.985,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",10.895,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Bangladesh,BGD,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",11.462,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",19.493,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",26.596,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",28.594,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",27.958,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",27.098,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",30.267,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",28.311,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",20.732,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",17.938,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Brazil,BRA,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",17.95,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",15.282,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",15.473,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",17.732,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",18.138,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",18.953,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",24.377,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",20.477,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",18.287,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",21.973,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Chile,CHL,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",22.3,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",17.316,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",18.274,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",18.467,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",19.45,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",20.658,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",27.248,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",24.757,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",20.982,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",19.369,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Colombia,COL,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",19.761,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",3.811,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",4.025,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",4.241,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",4.497,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",4.729,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.359,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.246,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",5.412,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",5.436,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Ethiopia,ETH,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",5.431,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",7.328,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",7.079,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.77,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.22,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",5.859,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",7.862,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.665,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.04,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",5.949,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Germany,DEU,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.7,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",34.082,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",34.46,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",34.674,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",34.808,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",35.183,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",39.687,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",37.942,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",36.521,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",36.421,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Haiti,HTI,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",37.489,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",5.471,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",5.12,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",4.611,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",3.668,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",3.938,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",4.679,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",4.625,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",4.406,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",4.116,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Japan,JPN,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",3.925,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.516,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",7.621,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.849,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.815,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",7.16,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.053,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",7.626,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.465,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",5.844,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Mexico,MEX,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",5.545,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",6.877,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.272,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.319,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.342,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",7.405,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",12.659,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",9.586,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.019,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.846,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Peru,PER,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.814,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2015,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",11.634,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2016,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",10.432,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2017,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",9.238,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2018,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.607,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2019,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.375,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2020,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",14.891,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2021,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",9.704,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2022,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",8.105,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2023,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",7.953,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+United States,USA,2024,SL.UEM.1524.ZS,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",9.389,Desempleo jóvenes 15-24 (% fuerza laboral) [8.5/8.6]
+Argentina,ARG,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",19.246,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",19.023,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",19.228,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",22.328,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",16.118,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",15.872,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",15.028,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",28.88,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",27.386,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",14.958,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Bangladesh,BGD,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",22.103,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",23.803,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",24.866,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",24.605,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",23.986,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",25.992,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",23.377,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",20.975,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",20.621,Jóvenes NEET 15-24 (% población) [8.6]
+Brazil,BRA,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",19.198,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",17.502,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",18.277,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",19.222,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",15.335,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",14.42,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",15.321,Jóvenes NEET 15-24 (% población) [8.6]
+Chile,CHL,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",21.141,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",21.131,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",21.837,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",22.841,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",23.917,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",27.264,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",24.423,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",23.251,Jóvenes NEET 15-24 (% población) [8.6]
+Colombia,COL,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",17.529,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Ethiopia,ETH,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",6.239,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",6.701,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",6.266,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",6.011,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",5.607,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",7.295,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",7.868,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",6.798,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",7.456,Jóvenes NEET 15-24 (% población) [8.6]
+Germany,DEU,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Haiti,HTI,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",3.66,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",3.55,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",3.32,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",2.97,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",3.14,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Japan,JPN,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",19.716,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",19.498,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",18.701,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",18.412,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",18.299,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",20.383,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",18.353,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",17.317,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",16.351,Jóvenes NEET 15-24 (% población) [8.6]
+Mexico,MEX,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",18.586,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",19.196,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",17.353,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",17.749,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",16.873,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",25.676,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",22.695,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",22.779,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Peru,PER,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2015,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",12.442,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2016,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",12.017,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2017,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",10.972,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2018,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",10.922,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2019,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",10.409,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2020,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",13.892,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2021,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",12.205,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2022,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",11.244,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2023,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",11.191,Jóvenes NEET 15-24 (% población) [8.6]
+United States,USA,2024,SL.UEM.NEET.ZS,"Share of youth not in education, employment or training, total (% of youth population)",,Jóvenes NEET 15-24 (% población) [8.6]
+Argentina,ARG,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),48.71,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),71.63,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),50.05,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),52.81,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Bangladesh,BGD,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),70.04,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),84.04,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Brazil,BRA,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),74.35,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),87.06,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Chile,CHL,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),45.76,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),59.72,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Colombia,COL,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),34.83,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),46.48,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Ethiopia,ETH,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),99.14,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),99.98,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Germany,DEU,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),32.62,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Haiti,HTI,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),98.24,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),98.49,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Japan,JPN,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),36.93,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),48.97,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Mexico,MEX,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),42.6,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),57.5,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Peru,PER,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2015,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2016,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2017,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),93.12,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2018,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2019,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2020,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2021,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),94.95,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2022,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2023,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+United States,USA,2024,FX.OWN.TOTL.ZS,Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),,"Adultos con cuenta (% 15+, Findex) [8.10]"
+Argentina,ARG,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.73115982828944,"PIB real (crec. %, total)"
+Argentina,ARG,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.08032784377811,"PIB real (crec. %, total)"
+Argentina,ARG,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.81850297775918,"PIB real (crec. %, total)"
+Argentina,ARG,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.61739646282038,"PIB real (crec. %, total)"
+Argentina,ARG,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.00086100285785,"PIB real (crec. %, total)"
+Argentina,ARG,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-9.9004848136464,"PIB real (crec. %, total)"
+Argentina,ARG,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),10.4418119882506,"PIB real (crec. %, total)"
+Argentina,ARG,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.26987967384072,"PIB real (crec. %, total)"
+Argentina,ARG,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.61100162090189,"PIB real (crec. %, total)"
+Argentina,ARG,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.71910514722377,"PIB real (crec. %, total)"
+Bangladesh,BGD,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.55263987816197,"PIB real (crec. %, total)"
+Bangladesh,BGD,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.11347821270093,"PIB real (crec. %, total)"
+Bangladesh,BGD,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.59024999794057,"PIB real (crec. %, total)"
+Bangladesh,BGD,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.31941263014136,"PIB real (crec. %, total)"
+Bangladesh,BGD,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.88191515117722,"PIB real (crec. %, total)"
+Bangladesh,BGD,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.44801755122445,"PIB real (crec. %, total)"
+Bangladesh,BGD,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.93867912442445,"PIB real (crec. %, total)"
+Bangladesh,BGD,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.09982877575158,"PIB real (crec. %, total)"
+Bangladesh,BGD,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.77511237007889,"PIB real (crec. %, total)"
+Bangladesh,BGD,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.22325911250161,"PIB real (crec. %, total)"
+Brazil,BRA,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.54576339269425,"PIB real (crec. %, total)"
+Brazil,BRA,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.27591690782192,"PIB real (crec. %, total)"
+Brazil,BRA,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.32286905404399,"PIB real (crec. %, total)"
+Brazil,BRA,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.783666761634,"PIB real (crec. %, total)"
+Brazil,BRA,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.22077782360842,"PIB real (crec. %, total)"
+Brazil,BRA,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.2767587964736,"PIB real (crec. %, total)"
+Brazil,BRA,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),4.76260437908608,"PIB real (crec. %, total)"
+Brazil,BRA,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.01669435393015,"PIB real (crec. %, total)"
+Brazil,BRA,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.24165532906981,"PIB real (crec. %, total)"
+Brazil,BRA,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.39586645454844,"PIB real (crec. %, total)"
+Chile,CHL,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.15194249981184,"PIB real (crec. %, total)"
+Chile,CHL,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.753038749071,"PIB real (crec. %, total)"
+Chile,CHL,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.35769537343957,"PIB real (crec. %, total)"
+Chile,CHL,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.99002947789977,"PIB real (crec. %, total)"
+Chile,CHL,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.634367533828438,"PIB real (crec. %, total)"
+Chile,CHL,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-6.14347479224092,"PIB real (crec. %, total)"
+Chile,CHL,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),11.3149204879049,"PIB real (crec. %, total)"
+Chile,CHL,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.15399356192458,"PIB real (crec. %, total)"
+Chile,CHL,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.521367977246825,"PIB real (crec. %, total)"
+Chile,CHL,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.64431154871538,"PIB real (crec. %, total)"
+Colombia,COL,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.95590137527523,"PIB real (crec. %, total)"
+Colombia,COL,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.08738250162794,"PIB real (crec. %, total)"
+Colombia,COL,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.35936086788746,"PIB real (crec. %, total)"
+Colombia,COL,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.56432428277704,"PIB real (crec. %, total)"
+Colombia,COL,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.18685539245533,"PIB real (crec. %, total)"
+Colombia,COL,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-7.18591413760859,"PIB real (crec. %, total)"
+Colombia,COL,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),10.8011981904878,"PIB real (crec. %, total)"
+Colombia,COL,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.32827729427979,"PIB real (crec. %, total)"
+Colombia,COL,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.712380031974334,"PIB real (crec. %, total)"
+Colombia,COL,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.7438014504116,"PIB real (crec. %, total)"
+Ethiopia,ETH,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),10.3924630202332,"PIB real (crec. %, total)"
+Ethiopia,ETH,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),9.43348265784411,"PIB real (crec. %, total)"
+Ethiopia,ETH,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),9.56418965754014,"PIB real (crec. %, total)"
+Ethiopia,ETH,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.81614778557282,"PIB real (crec. %, total)"
+Ethiopia,ETH,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),8.36408573314054,"PIB real (crec. %, total)"
+Ethiopia,ETH,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.05953089054807,"PIB real (crec. %, total)"
+Ethiopia,ETH,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.64153069257077,"PIB real (crec. %, total)"
+Ethiopia,ETH,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),5.32175988403378,"PIB real (crec. %, total)"
+Ethiopia,ETH,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.59424599357075,"PIB real (crec. %, total)"
+Ethiopia,ETH,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),7.31669112848382,"PIB real (crec. %, total)"
+Germany,DEU,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.65271978656361,"PIB real (crec. %, total)"
+Germany,DEU,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.29471066413561,"PIB real (crec. %, total)"
+Germany,DEU,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.71602454639843,"PIB real (crec. %, total)"
+Germany,DEU,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.11644310902427,"PIB real (crec. %, total)"
+Germany,DEU,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.987893350164853,"PIB real (crec. %, total)"
+Germany,DEU,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-4.09513751682526,"PIB real (crec. %, total)"
+Germany,DEU,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.6699998840452,"PIB real (crec. %, total)"
+Germany,DEU,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.36973104612758,"PIB real (crec. %, total)"
+Germany,DEU,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.266438401180253,"PIB real (crec. %, total)"
+Germany,DEU,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.238526858256165,"PIB real (crec. %, total)"
+Haiti,HTI,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.40000000859727,"PIB real (crec. %, total)"
+Haiti,HTI,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.81246807847532,"PIB real (crec. %, total)"
+Haiti,HTI,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.51027134544685,"PIB real (crec. %, total)"
+Haiti,HTI,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.66781095484656,"PIB real (crec. %, total)"
+Haiti,HTI,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.72309699839232,"PIB real (crec. %, total)"
+Haiti,HTI,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-3.30550546965893,"PIB real (crec. %, total)"
+Haiti,HTI,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.79823988931486,"PIB real (crec. %, total)"
+Haiti,HTI,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.68198396897978,"PIB real (crec. %, total)"
+Haiti,HTI,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-1.86388420254838,"PIB real (crec. %, total)"
+Haiti,HTI,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-4.16963395808132,"PIB real (crec. %, total)"
+Japan,JPN,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.56062669680782,"PIB real (crec. %, total)"
+Japan,JPN,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.753826745789127,"PIB real (crec. %, total)"
+Japan,JPN,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.67533175173359,"PIB real (crec. %, total)"
+Japan,JPN,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.643391023533141,"PIB real (crec. %, total)"
+Japan,JPN,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.402169200894946,"PIB real (crec. %, total)"
+Japan,JPN,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-4.16876457146743,"PIB real (crec. %, total)"
+Japan,JPN,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.69657404187188,"PIB real (crec. %, total)"
+Japan,JPN,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.941998775483285,"PIB real (crec. %, total)"
+Japan,JPN,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.47503481053384,"PIB real (crec. %, total)"
+Japan,JPN,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),0.0836985643852159,"PIB real (crec. %, total)"
+Mexico,MEX,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.70232344844723,"PIB real (crec. %, total)"
+Mexico,MEX,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.77249323400358,"PIB real (crec. %, total)"
+Mexico,MEX,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.87172854186539,"PIB real (crec. %, total)"
+Mexico,MEX,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.97208207701884,"PIB real (crec. %, total)"
+Mexico,MEX,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.392690505099296,"PIB real (crec. %, total)"
+Mexico,MEX,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-8.35403456576364,"PIB real (crec. %, total)"
+Mexico,MEX,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.04848345704632,"PIB real (crec. %, total)"
+Mexico,MEX,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.71098893117183,"PIB real (crec. %, total)"
+Mexico,MEX,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.2953909570288,"PIB real (crec. %, total)"
+Mexico,MEX,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.4540624784799,"PIB real (crec. %, total)"
+Peru,PER,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.25224477218451,"PIB real (crec. %, total)"
+Peru,PER,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.95331871520767,"PIB real (crec. %, total)"
+Peru,PER,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.51883544233135,"PIB real (crec. %, total)"
+Peru,PER,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.969351341365,"PIB real (crec. %, total)"
+Peru,PER,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.24063176875049,"PIB real (crec. %, total)"
+Peru,PER,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-10.9333065010382,"PIB real (crec. %, total)"
+Peru,PER,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),13.3626240903125,"PIB real (crec. %, total)"
+Peru,PER,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.8090335533015,"PIB real (crec. %, total)"
+Peru,PER,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-0.403242151494268,"PIB real (crec. %, total)"
+Peru,PER,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),3.30394098171516,"PIB real (crec. %, total)"
+United States,USA,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.94555045599772,"PIB real (crec. %, total)"
+United States,USA,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1.81945147620522,"PIB real (crec. %, total)"
+United States,USA,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.45762230175086,"PIB real (crec. %, total)"
+United States,USA,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.96650506916596,"PIB real (crec. %, total)"
+United States,USA,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.58382533018889,"PIB real (crec. %, total)"
+United States,USA,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),-2.16302913866512,"PIB real (crec. %, total)"
+United States,USA,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),6.05505293304556,"PIB real (crec. %, total)"
+United States,USA,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.5123753198332,"PIB real (crec. %, total)"
+United States,USA,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.88755600905984,"PIB real (crec. %, total)"
+United States,USA,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2.79619035621393,"PIB real (crec. %, total)"
